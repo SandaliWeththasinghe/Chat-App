@@ -79,7 +79,7 @@ class _RegistrationState extends State<Registration> {
             onChanged: (value) => password = value,
             
             decoration: InputDecoration(
-              hintText: "Enter Your Passpwrd...",
+              hintText: "Enter Your Password...",
               border: OutlineInputBorder(),
             ),
           ),
